@@ -1,0 +1,6 @@
+/env
+.idea
+/logs
+*.zip
+/data
+__pycache__
